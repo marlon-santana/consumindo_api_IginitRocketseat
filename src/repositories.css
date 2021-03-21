@@ -1,0 +1,68 @@
+
+* {
+    margin-left: 2px;
+    
+}
+
+
+
+section.repository-List  {
+   
+  
+  
+}
+h2 {
+    text-decoration: underline;
+    color:#4a25a0;
+    margin-bottom: 5px;
+    text-align: center;
+}
+ul {
+    list-style: none;
+    text-align: center;
+    
+}
+li {
+    margin-bottom: 1px;
+    text-align: center;
+    font-size: 30px;
+    background-color: #a61da8;
+    border-radius: 20px;
+    background-image: url("foguete.png");
+    background-repeat: repeat-y;
+    margin-block-start: 5px;
+    
+    
+    
+}
+li:last-child {
+    margin: 0;
+   
+}
+p {
+    font-size: 20px;
+    color: rgb(252, 249, 249);
+    margin-top: 8px;
+    text-align: center;
+   
+
+}
+a {
+    display: inline-block;
+    margin-top: 16px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #35034d;
+    text-align: center;
+   font-family: fantasy;
+   font-size: 20px;
+ 
+    
+    
+
+}
+a:hover {
+    color: #fbf8fc;
+    font-family: fantasy;
+}
+
